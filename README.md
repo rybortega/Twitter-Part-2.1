@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was challenged this week by an illness I caught at the beginning of the week that made getting work done nearly impossible. 
 
 ## Open-source libraries used
 
