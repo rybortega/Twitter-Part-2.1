@@ -30,8 +30,8 @@ The following **optional** features are implemented:
 
 The following **bonus** features are implemented:
 
-- [ ] User can tap a tweet to **open a detailed tweet view**
-  - [ ] User can **take favorite (and unfavorite) or reweet** actions on a tweet
+- [x] User can tap a tweet to **open a detailed tweet view**
+ - [ ] User can **take favorite (and unfavorite) or reweet** actions on a tweet
 - [ ] Use the popular ButterKnife annotation library to reduce view boilerplate.
 - [ ] On the Twitter timeline, leverage the [CoordinatorLayout](http://guides.codepath.org/android/Handling-Scrolls-with-CoordinatorLayout#responding-to-scroll-events) to apply scrolling behavior that [hides / shows the toolbar](http://guides.codepath.org/android/Using-the-App-ToolBar#reacting-to-scroll).
 
@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/lruiz5/SimpleTweet/blob/master/Walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
