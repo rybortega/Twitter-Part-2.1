@@ -22,7 +22,7 @@ android {
         buildConfigField("String", "CONSUMER_SECRET", apikeyProperties['CONSUMER_SECRET'])
 
         vectorDrawables.useSupportLibrary = true
-}
+    }
 
     // Related to https://github.com/scribejava/scribejava/issues/480
     // Scribe expects Java 7 or this custom Apache library
@@ -68,5 +68,8 @@ dependencies {
     implementation "com.google.android.material:material:${designSupportVersion}"
     implementation "androidx.percentlayout:percentlayout:1.0.0"
     implementation "androidx.vectordrawable:vectordrawable:1.0.0" // VectorDrawableCompat
-    implementation "androidx.vectordrawable:vectordrawable-animated:1.0.0" // AnimatedVectorDrawableCompat
+    implementation "androidx.vectordrawable:vectordrawable-animated:1.0.0"
+    // AnimatedVectorDrawableCompat
+
+
 }
